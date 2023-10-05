@@ -14,4 +14,11 @@
 
 5. 再告知時間就完成啦~~
 
-![image](picture or gif url)
+![image](https://github.com/110916041/SimpleChatBot/blob/a244f72400e910ca424f1e36e4494752f056fdf1/image/ask.png)
+![image](https://github.com/110916041/SimpleChatBot/blob/a244f72400e910ca424f1e36e4494752f056fdf1/image/ask2.png)
+![image](https://github.com/110916041/SimpleChatBot/blob/a244f72400e910ca424f1e36e4494752f056fdf1/image/ask3.png)
+![image](https://github.com/110916041/SimpleChatBot/blob/a244f72400e910ca424f1e36e4494752f056fdf1/image/ask4.png)
+
+專案意圖規劃表
+
+![image]([h94752f056fdf1/image/ask.png](https://github.com/110916041/SimpleChatBot/blob/a244f72400e910ca424f1e36e4494752f056fdf1/image/table.png)https://github.com/110916041/SimpleChatBot/blob/a244f72400e910ca424f1e36e4494752f056fdf1/image/table.png)
