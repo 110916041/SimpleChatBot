@@ -1,0 +1,54 @@
+{
+  "id": "42ede98c-f574-4a66-a4b1-cf1be669bd87",
+  "parentId": "e95351b9-9834-4005-980e-8d428b366875",
+  "rootParentId": "e95351b9-9834-4005-980e-8d428b366875",
+  "name": "3人 - custom",
+  "auto": true,
+  "contexts": [
+    "3-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3.3-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ff231891-da14-41b3-9fbf-b4fe5f9df130",
+          "name": "date-time",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "zh-tw",
+          "speech": [
+            "$date-time 的座位已預約完畢~"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "6d38bd8b-a293-4216-8e58-3f3703fbc7c1",
+    "data": [
+      {
+        "text": "預約人數",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "4d986812-e75d-46f6-9e0f-0ee2f1c75ba9",
+    "data": [
+      {
+        "text": "定位子",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "038c6ae2-67a8-4788-a408-08ed1c184167",
+    "data": [
+      {
+        "text": "我想預定座位",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

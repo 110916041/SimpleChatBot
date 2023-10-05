@@ -1,0 +1,51 @@
+[
+  {
+    "id": "602e8ac8-89f3-42f5-8114-f704bb2cc221",
+    "data": [
+      {
+        "text": "三人",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "47cd265d-d31b-4429-ba66-6be89ef77a72",
+    "data": [
+      {
+        "text": "3 people",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "d6f9e39e-aa52-40b2-975b-7eeafc03ef90",
+    "data": [
+      {
+        "text": "五",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "個人",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

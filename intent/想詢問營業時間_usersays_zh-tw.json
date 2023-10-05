@@ -1,0 +1,41 @@
+[
+  {
+    "id": "6500c5f0-1b47-4bf1-bf75-3d4a00b934ac",
+    "data": [
+      {
+        "text": "想詢問營業時間",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a263ba58-3cf4-40f5-afd3-ab32cc812af1",
+    "data": [
+      {
+        "text": "開放時間",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a38c99f6-199a-4ccd-b094-ab1a1129755e",
+    "data": [
+      {
+        "text": "營業",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]
